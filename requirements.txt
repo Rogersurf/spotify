@@ -1,0 +1,11 @@
+appdirs==1.4.4
+argon2-cffi==21.1.0
+asttokens==2.4.1
+attrs==23.2.0
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+altair
+scikit-learn
